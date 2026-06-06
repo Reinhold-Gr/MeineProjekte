@@ -49,3 +49,19 @@ Es dient als zentrale Ablage für Skripte, Tools, Proof‑of‑Concepts und klei
 
 ```bash
 git clone https://github.com/Reinhold-Gr/MeineProjekte.git
+
+```
+
+---
+
+## 📌 Hinweise
+
+Dieses Repository wird laufend erweitert.
+Neue Projekte, Skripte und Tools werden nach Bedarf ergänzt.
+
+---
+
+## 👤 Autor
+
+Reinhold Gr.  
+GitHub: https://github.com/Reinhold-Gr
