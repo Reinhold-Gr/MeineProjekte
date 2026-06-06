@@ -5,6 +5,16 @@ Es dient als zentrale Ablage für Skripte, Tools, Proof‑of‑Concepts und klei
 
 ---
 
+## 📚 Inhaltsübersicht
+- [Projektübersicht](#projektübersicht)
+- [Ziele des Repositories](#ziele-des-repositories)
+- [Technologien & Tools](#technologien--tools)
+- [Nutzung](#nutzung)
+- [Hinweise](#hinweise)
+- [Autor](#autor)
+
+---
+
 ## 📁 Projektübersicht
 
 | Ordner / Datei     | Beschreibung                                              |
