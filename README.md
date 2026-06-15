@@ -20,7 +20,8 @@ Es dient als zentrale Ablage für Skripte, Tools, Proof‑of‑Concepts und klei
 | Ordner / Datei     | Beschreibung  (Hauptverzeichnis für alle Projekte  )      |
 |--------------------|-----------------------------------------------------------|
 | `/`VERA            | Automatisierung der Vera-Container (öffnen und kopieren)  |
-| `/`XXXX            | Kurzbescheibung                                           |
+| `/`KI              | entlält Funktionsumfänge verschiedener LLMs               |
+| `/`PS1             | Hilfprogramme allgemein, GitHub spezifische               |
 | *(weitere folgen)* | Sobald neue Projekte angelegt werden, erscheinen sie hier |
 
 ---
@@ -52,6 +53,22 @@ Es dient als zentrale Ablage für Skripte, Tools, Proof‑of‑Concepts und klei
 git clone https://github.com/Reinhold-Gr/MeineProjekte.git
 
 ```
+## new-repro
+
+✅ Repo‑Erstellungsfunktion newrepo (lokal + GitHub‑URL setzen)
+Diese Funktion:
+
+erstellt lokal ein neues Git‑Repo
+
+setzt automatisch die GitHub‑Remote
+
+macht den ersten Commit
+
+pusht auf main
+
+zeigt dir den fertigen GitHub‑Link an
+
+👉 GitHub‑Repo musst du einmalig manuell anlegen  
 
 ---
 
