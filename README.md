@@ -17,9 +17,10 @@ Es dient als zentrale Ablage für Skripte, Tools, Proof‑of‑Concepts und klei
 
 ## 📁 Projektübersicht
 
-| Ordner / Datei     | Beschreibung                                              |
+| Ordner / Datei     | Beschreibung  (Hauptverzeichnis für alle Projekte  )      |
 |--------------------|-----------------------------------------------------------|
-| `/`VERA            | Hauptverzeichnis für alle Projekte                        |
+| `/`VERA            | Automatisierung der Vera-Container (öffnen und kopieren)  |
+| `/`XXXX            | Kurzbescheibung                                           |
 | *(weitere folgen)* | Sobald neue Projekte angelegt werden, erscheinen sie hier |
 
 ---
